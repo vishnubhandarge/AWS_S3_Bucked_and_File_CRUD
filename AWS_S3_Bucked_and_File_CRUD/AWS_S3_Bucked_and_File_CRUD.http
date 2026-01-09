@@ -1,0 +1,6 @@
+@AWS_S3_Bucked_and_File_CRUD_HostAddress = http://localhost:5022
+
+GET {{AWS_S3_Bucked_and_File_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
